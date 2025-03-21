@@ -8,7 +8,7 @@ My name is **Ruben** and I am a professor at Universidade de Pernambuco, who lov
 * I learned to code in ROM BASIC on a Prologica CP500 TRS80. (see full specs bellow)
 * My second language was C, and it was love at first sight
 * I still have all my backups, passing from one computer to the next one, since Christmas 1987.
-* All my computers have names. They are, in order:
+* All my computers have names. Here they are, in (more or less) chronological order:
   - 1987, Elefante, Desktop, CP500  Prologica CP500 TRS80, z80 8-bit 2MHz processor with 48KB RAM, 2 5 1/4 diskette slots.
   - 1989, Gorila, Desktop, IBM PC-XT, 8088 8-bit 4.7MHz processor with 1MB RAM and 44MB HD.
   - 1993, Hamster, Laptop Epson ActionNote 500, 486 50MHz processor with 4MB RAM and 120MB HD.
@@ -22,12 +22,26 @@ My name is **Ruben** and I am a professor at Universidade de Pernambuco, who lov
   - 2010, Capivara, Intel Celeron E3300 2-core 2.6GHz, with 2GB RAM and 160GB HD. Video-card Nvidia Geforce G210 512MB RAM.
   - 2012, Gavião, Intel 775 2-core E5700 3GHz processor, 4GB RAM Kingston, 1TB HD.
   - 2012, Raposa, Notebook Dell Vostro, i5, to be completed...
-  - 2017, Husky, Notebook Samsung White
-  - 2018, Coruja, Notebook Lenovo IdeaPad
-  - 2021, Marvin, Desktop/Server i9 32GB RAM, 6TB HD.
-  - Single board: 2017, Raspbeco Mod1; 2018, Parallella Computer 48-cores; 2019 RP2 Mod2; 2019 Urubu; 2020 Pinguim, Raspberry Pi 4, 4GB RAM.
-  - Remote: Bartender, Apocalypse, Cruxfermentation
-  - University Servers: Zebu, Camelo, Hydra.
+  - 2017, Husky, Notebook Samsung White.
+  - 2018, Coruja, Notebook Lenovo IdeaPad.
+  - 2021, Camaleao, Backup Server i9 32GB RAM, 18TB (4 HDs 6TB zfs RAID). It turns on and off on demand using wakeonlan!
+  - 2022, Marvin, Desktop/Server i9 128GB RAM, 18TB (6 HDs 4TB zfs RAID).
+  - Single board:
+      - 2017, Raspbeco, Raspberry Pi Mod1.
+      - 2018, Formiga, Parallella Computer 48-cores.
+      - 2019, Raspbeco2, RP Mod2.
+      - 2019, Urubu, RP2.
+      - 2020, Pinguim, Raspberry Pi 4, 4GB RAM.
+  - Remote:
+    - Bartender.
+    - Apocalypse.
+    - Cruxfermentation.
+  - University Servers:
+    - Zebu.
+    - Camelo.
+    - 2012-2023, Hydra.
+    - Poseidon.
+    - 2023, Draco.
 * The oldest computer I still have and works is Gorila! My father have it in his home, and he uses to play a Quick-Basic game where 2 gorillas throw bananas at each other in certain angle and velocity.
 * My favorite programming languages these days are C, C++, Prolog, PHP, Python, Brainforce, Portugol and some other exoteric languages.
 * I am on Org Beco Systems. Don't @ me.
@@ -53,4 +67,4 @@ My name is **Ruben** and I am a professor at Universidade de Pernambuco, who lov
   - Audiovisuais educativos
 * 💬 Ask me about them.
 * 📫 How to reach me: check my website and drop me an email
-* ⚡ Fun facts don't care about your feelings. 
+* ⚡ Fun facts don't care about your feelings.
